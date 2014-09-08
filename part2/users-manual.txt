@@ -1,0 +1,11 @@
+User's Manual
+
+1. How to execute the code:
+This has already been mentioned clearly in the readme.txt file in the zip archive.
+
+2. How data is specified in the program:
+I have used templates in the facts-trial.clp file to define most of the facts structures like for the packages, trucks, package-report, truck-report etc.
+
+These templates are then further used to establish all the facts.
+
+3.Output generated can be seen in the simulation table.

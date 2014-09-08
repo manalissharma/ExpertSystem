@@ -1,0 +1,138 @@
+Report Generated:
+ Time		Package No.		Truck No.		Action		     Location		       Arrival Time 
+  1		1			1			dispatched		    Orlando				2
+  1		2			2			dispatched		    Gainesville			    3
+  2		1			1			delivering		    Jacksonville			    5
+  3		2			2			delivering		    Jacksonville			    5
+  4		3			3			dispatched		    West Palm			    9
+  4		4			4			dispatched		    Key West			    9
+  5		none			1			idle		    Jacksonville			    5
+  5		none			2			idle		    Jacksonville			    5
+  5		5			6			dispatched		    Gainesville			    8
+  8		6			1			dispatched		    Jacksonville			    8
+  8		7			5			dispatched		    Jacksonville			    9
+  8		5			6			delivering		    Tallahassee			    11
+  8		6			1			delivering		    Orlando				11
+  9		3			3			delivering		    St. Augustine			    12
+  9		8			2			dispatched		    Ft. Myers			    15
+  9		7			5			delivering		    Miami				15
+  9		4			4			delivering		    St. Augustine			    17
+  11		9			1			dispatched		    Orlando				11
+  11		none			1			idle		    Orlando				11
+  11		none			6			idle		    Tallahassee			    11
+  11		10			6			dispatched		    West Palm			    18
+  11		9			1			delivering		    Key West			    19
+  12		none			3			idle		    St. Augustine			    12
+  12		11			3			dispatched		    Miami				17
+  15		none			5			idle		    Miami				15
+  15		8			2			delivering		    Key West			    23
+  17		none			4			idle		    St. Augustine			    17
+  17		11			3			delivering		    Ocala				23
+  18		10			6			delivering		    Miami				20
+  19		none			1			idle		    Key West			    19
+  19		12			1			dispatched		    Gainesville			    28
+  20		none			6			idle		    Miami				20
+  20		14			5			dispatched		    Miami				20
+  20		14			5			delivering		    Orlando				25
+  20		13			6			dispatched		    Tampa				26
+  23		none			3			idle		    Ocala				23
+  23		none			2			idle		    Key West			    23
+  25		none			5			idle		    Orlando				25
+  26		13			6			delivering		    Tallahassee			    32
+  28		12			1			delivering		    Orlando				30
+  30		none			1			idle		    Orlando				30
+  30		15			2			dispatched		    Ocala				39
+  32		none			6			idle		    Tallahassee			    32
+  39		15			2			delivering		    Orlando				40
+  40		none			2			idle		    Orlando				40
+  40		16			3			dispatched		    Orlando				41
+  41		16			3			delivering		    Lake City			    44
+  44		none			3			idle		    Lake City			    44
+  65		17			4			dispatched		    Jacksonville			    66
+  66		17			4			delivering		    Tallahassee			    69
+  69		none			4			idle		    Tallahassee			    69
+  80		18			1			dispatched		    Tallahassee			    85
+  85		18			1			delivering		    Gainesville			    88
+  88		none			1			idle		    Gainesville			    88
+  90		19			5			dispatched		    St. Augustine			    92
+  92		19			5			delivering		    Tallahassee			    96
+  96		none			5			idle		    Tallahassee			    96
+  110		21			2			dispatched		    St. Augustine			    112
+  110		20			6			dispatched		    West Palm			    117
+  112		21			2			delivering		    Ft. Myers			    117
+  117		none			2			idle		    Ft. Myers			    117
+  117		20			6			delivering		    Ft. Myers			    120
+  120		none			6			idle		    Ft. Myers			    120
+  120		22			3			dispatched		    Jacksonville			    121
+  121		22			3			delivering		    Key West			    130
+  130		none			3			idle		    Key West			    130
+  150		24			1			dispatched		    Miami				156
+  150		25			5			dispatched		    Miami				159
+  150		23			4			dispatched		    Miami				159
+  156		24			1			delivering		    Gainesville			    162
+  159		23			4			delivering		    Key West			    162
+  159		25			5			delivering		    Tallahassee			    168
+  162		none			1			idle		    Gainesville			    162
+  162		none			4			idle		    Key West			    162
+  168		none			5			idle		    Tallahassee			    168
+  180		26			2			dispatched		    Tallahassee			    188
+  188		26			2			delivering		    Lake City			    190
+  190		none			2			idle		    Lake City			    190
+  190		27			6			dispatched		    Lake City			    196
+  196		27			6			delivering		    Tallahassee			    198
+  198		none			6			idle		    Tallahassee			    198
+  200		28			2			dispatched		    Tallahassee			    202
+  200		29			3			dispatched		    St. Augustine			    208
+  202		28			2			delivering		    Key West			    214
+  208		29			3			delivering		    Key West			    216
+  210		30			1			dispatched		    Tampa				213
+  213		30			1			delivering		    Jacksonville			    217
+  214		none			2			idle		    Key West			    214
+  216		none			3			idle		    Key West			    216
+  217		none			1			idle		    Jacksonville			    217
+
+Package Report:
+   Number   	Wait Time    	Pick-Up Time	 Delivery Time	  Delivery-Status  Late Time
+ 1		1		2		5		on-time		  0
+ 2		2		3		5		on-time		  0
+ 3		5		9		12		late		  2
+ 4		5		9		17		late		  7
+ 5		3		8		11		late		  1
+ 6		0		8		11		on-time		  0
+ 7		1		9		15		on-time		  0
+ 8		6		15		23		late		  3
+ 9		2		11		19		on-time		  0
+ 10		9		18		20		late		  4
+ 11		7		17		23		late		  3
+ 12		17		28		30		late		  13
+ 13		14		26		32		late		  7
+ 14		0		20		25		on-time		  0
+ 15		9		39		40		on-time		  0
+ 16		1		41		44		on-time		  0
+ 17		1		66		69		on-time		  0
+ 18		5		85		88		on-time		  0
+ 19		2		92		96		on-time		  0
+ 20		7		117		120		on-time		  0
+ 21		2		112		117		on-time		  0
+ 22		1		121		130		on-time		  0
+ 23		9		159		162		late		  7
+ 24		6		156		162		on-time		  0
+ 25		9		159		168		on-time		  0
+ 26		8		188		190		on-time		  0
+ 27		6		196		198		on-time		  0
+ 28		2		202		214		on-time		  0
+ 29		8		208		216		on-time		  0
+ 30		3		213		217		on-time		  0
+
+Average Report of packages:
+Avg-Wait-Time       Packages on-time		   Packages late		      Avg-Lateness-of-late-packages	     Avg-Lateness-of-all-packages
+5.03333333333333	21			   9				      5.22222222222222		         	1.56666666666667
+
+Truck Report:
+Number  Total-Wait-Time	 Total-Busy-Time	%-Busy-Time	 Packages-Transported   Avg-%-Truck-Occupied   Non-delivery-Travel-Time	  %-Busy-Time-spent-delivering
+ 1		164	   	53            	  24	         	   7	              67	              	24	             0
+ 2		158	   	59            	  27	         	   6	              43	              	29	             0
+ 3		168	   	49            	  22	         	   5	              36	              	20	             0
+ 4		188	   	29            	  13	         	   3	              86	              	15	             0
+ 5		181	   	36            	  16	         	   4	              100	              	12	             0
+ 6		172	   	45            	  20	         	   5	              45	              	29	             0

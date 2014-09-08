@@ -1,0 +1,219 @@
+Report Generated:
+ Time		Package No.		Truck No.		Action		     Location		       Arrival Time 
+  1		50			1			dispatched		    Orlando				2
+  2		49			2			dispatched		    Tampa				3
+  2		50			1			delivering		    Key West			    10
+  3		48			3			dispatched		    West Palm			    8
+  3		49			2			delivering		    Tallahassee			    9
+  4		47			4			dispatched		    Tallahassee			    11
+  5		45			5			dispatched		    Miami				10
+  5		46			6			dispatched		    Key West			    14
+  6		44			7			dispatched		    Ft. Myers			    8
+  8		48			3			delivering		    Ft. Myers			    11
+  8		44			7			delivering		    Key West			    16
+  9		none			2			idle		    Tallahassee			    9
+  10		none			1			idle		    Key West			    10
+  10		45			5			delivering		    Orlando				15
+  11		none			3			idle		    Ft. Myers			    11
+  11		47			4			delivering		    Lake City			    13
+  11		42			3			dispatched		    St. Augustine			    16
+  12		40			2			dispatched		    Lake City			    14
+  13		none			4			idle		    Lake City			    13
+  14		40			2			delivering		    Tallahassee			    16
+  14		46			6			delivering		    St. Augustine			    22
+  15		none			5			idle		    Orlando				15
+  15		43			5			dispatched		    Tampa				16
+  15		38			4			dispatched		    Miami				22
+  15		36			1			dispatched		    Gainesville			    24
+  16		none			7			idle		    Key West			    16
+  16		none			2			idle		    Tallahassee			    16
+  16		43			5			delivering		    Jacksonville			    20
+  16		42			3			delivering		    Key West			    24
+  16		35			2			dispatched		    Miami				25
+  16		41			7			dispatched		    Tallahassee			    28
+  20		none			5			idle		    Jacksonville			    20
+  20		39			5			dispatched		    Tallahassee			    23
+  22		none			6			idle		    St. Augustine			    22
+  22		34			6			dispatched		    St. Augustine			    22
+  22		34			6			delivering		    Ft. Myers			    27
+  22		38			4			delivering		    Tallahassee			    31
+  23		39			5			delivering		    Lake City			    25
+  24		none			3			idle		    Key West			    24
+  24		36			1			delivering		    Orlando				26
+  24		33			3			dispatched		    Miami				27
+  25		none			5			idle		    Lake City			    25
+  25		32			5			dispatched		    Tampa				29
+  25		35			2			delivering		    Ocala				31
+  26		none			1			idle		    Orlando				26
+  27		none			6			idle		    Ft. Myers			    27
+  27		33			3			delivering		    Key West			    30
+  28		41			7			delivering		    Key West			    40
+  29		32			5			delivering		    Tallahassee			    35
+  30		none			3			idle		    Key West			    30
+  30		31			1			dispatched		    Miami				35
+  31		none			2			idle		    Ocala				31
+  31		none			4			idle		    Tallahassee			    31
+  35		none			5			idle		    Tallahassee			    35
+  35		29			6			dispatched		    West Palm			    38
+  35		30			5			dispatched		    Orlando				40
+  35		31			1			delivering		    Gainesville			    41
+  38		29			6			delivering		    Ft. Myers			    41
+  40		none			7			idle		    Key West			    40
+  40		30			5			delivering		    Lake City			    43
+  40		37			7			dispatched		    St. Augustine			    48
+  40		27			3			dispatched		    Ocala				49
+  41		none			1			idle		    Gainesville			    41
+  41		none			6			idle		    Ft. Myers			    41
+  41		28			6			dispatched		    Miami				46
+  43		none			5			idle		    Lake City			    43
+  43		26			5			dispatched		    Jacksonville			    44
+  44		26			5			delivering		    Key West			    53
+  45		25			2			dispatched		    St. Augustine			    47
+  46		28			6			delivering		    Orlando				51
+  47		25			2			delivering		    Ft. Myers			    52
+  48		37			7			delivering		    Tallahassee			    52
+  49		27			3			delivering		    Orlando				50
+  50		none			3			idle		    Orlando				50
+  50		23			4			dispatched		    Jacksonville			    53
+  50		24			1			dispatched		    Tallahassee			    53
+  51		none			6			idle		    Orlando				51
+  52		none			2			idle		    Ft. Myers			    52
+  52		none			7			idle		    Tallahassee			    52
+  53		none			5			idle		    Key West			    53
+  53		23			4			delivering		    Tallahassee			    56
+  53		24			1			delivering		    Gainesville			    56
+  55		20			3			dispatched		    West Palm			    58
+  55		22			7			dispatched		    Jacksonville			    58
+  55		21			6			dispatched		    Key West			    63
+  56		none			4			idle		    Tallahassee			    56
+  56		none			1			idle		    Gainesville			    56
+  58		20			3			delivering		    St. Augustine			    61
+  58		22			7			delivering		    Key West			    67
+  60		18			5			dispatched		    St. Augustine			    68
+  61		none			3			idle		    St. Augustine			    61
+  63		21			6			delivering		    St. Augustine			    71
+  65		16			2			dispatched		    Gainesville			    70
+  67		none			7			idle		    Key West			    67
+  67		19			7			dispatched		    Gainesville			    76
+  68		18			5			delivering		    Ft. Myers			    73
+  70		16			2			delivering		    Orlando				72
+  70		15			1			dispatched		    Miami				76
+  71		none			6			idle		    St. Augustine			    71
+  71		17			6			dispatched		    Tampa				74
+  72		none			2			idle		    Orlando				72
+  73		none			5			idle		    Ft. Myers			    73
+  73		14			5			dispatched		    West Palm			    76
+  74		17			6			delivering		    Tallahassee			    80
+  75		13			3			dispatched		    Orlando				77
+  75		12			4			dispatched		    Ft. Myers			    83
+  76		14			5			delivering		    Miami				78
+  76		19			7			delivering		    Tallahassee			    79
+  76		15			1			delivering		    Ocala				82
+  77		13			3			delivering		    Key West			    85
+  78		9			5			dispatched		    Miami				78
+  78		none			5			idle		    Miami				78
+  78		10			2			dispatched		    Jacksonville			    81
+  78		9			5			delivering		    Tallahassee			    87
+  79		none			7			idle		    Tallahassee			    79
+  79		11			7			dispatched		    Jacksonville			    82
+  80		none			6			idle		    Tallahassee			    80
+  81		10			2			delivering		    Orlando				84
+  82		none			1			idle		    Ocala				82
+  82		11			7			delivering		    Miami				88
+  83		12			4			delivering		    Key West			    91
+  84		none			2			idle		    Orlando				84
+  85		none			3			idle		    Key West			    85
+  87		none			5			idle		    Tallahassee			    87
+  87		8			6			dispatched		    Miami				96
+  88		none			7			idle		    Miami				88
+  90		7			3			dispatched		    Gainesville			    99
+  91		none			4			idle		    Key West			    91
+  94		5			5			dispatched		    West Palm			    101
+  94		6			1			dispatched		    Key West			    103
+  95		4			2			dispatched		    Jacksonville			    98
+  95		3			7			dispatched		    St. Augustine			    100
+  96		8			6			delivering		    Gainesville			    102
+  98		4			2			delivering		    Key West			    107
+  99		7			3			delivering		    Tallahassee			    102
+  100		3			7			delivering		    Ft. Myers			    105
+  100		2			4			dispatched		    Gainesville			    109
+  101		5			5			delivering		    St. Augustine			    104
+  102		none			3			idle		    Tallahassee			    102
+  102		none			6			idle		    Gainesville			    102
+  102		1			6			dispatched		    Orlando				104
+  103		6			1			delivering		    St. Augustine			    111
+  104		none			5			idle		    St. Augustine			    104
+  104		1			6			delivering		    Jacksonville			    107
+  105		none			7			idle		    Ft. Myers			    105
+  107		none			2			idle		    Key West			    107
+  107		none			6			idle		    Jacksonville			    107
+  109		2			4			delivering		    Jacksonville			    111
+  111		none			4			idle		    Jacksonville			    111
+  111		none			1			idle		    St. Augustine			    111
+
+Package Report:
+   Number   	Wait Time    	Pick-Up Time	 Delivery Time	  Delivery-Status  Late Time
+ 1		4		104		107		on-time		  0
+ 2		9		109		111		on-time		  0
+ 3		5		100		105		on-time		  0
+ 4		3		98		107		on-time		  0
+ 5		7		101		104		late		  4
+ 6		9		103		111		late		  6
+ 7		9		99		102		late		  2
+ 8		9		96		102		on-time		  0
+ 9		0		78		87		on-time		  0
+ 10		3		81		84		on-time		  0
+ 11		5		82		88		late		  3
+ 12		8		83		91		late		  1
+ 13		2		77		85		on-time		  0
+ 14		6		76		78		on-time		  0
+ 15		6		76		82		late		  2
+ 16		5		70		72		on-time		  0
+ 17		12		74		80		late		  5
+ 18		8		68		73		on-time		  0
+ 19		16		76		79		late		  9
+ 20		3		58		61		on-time		  0
+ 21		8		63		71		late		  4
+ 22		3		58		67		on-time		  0
+ 23		3		53		56		on-time		  0
+ 24		3		53		56		on-time		  0
+ 25		2		47		52		on-time		  0
+ 26		4		44		53		on-time		  0
+ 27		9		49		50		on-time		  0
+ 28		9		46		51		late		  4
+ 29		3		38		41		on-time		  0
+ 30		5		40		43		late		  3
+ 31		5		35		41		on-time		  0
+ 32		4		29		35		on-time		  0
+ 33		7		27		30		late		  5
+ 34		5		22		27		on-time		  0
+ 35		9		25		31		late		  1
+ 36		9		24		26		late		  3
+ 37		33		48		52		late		  21
+ 38		7		22		31		late		  1
+ 39		10		23		25		late		  7
+ 40		2		14		16		on-time		  0
+ 41		18		28		40		late		  8
+ 42		7		16		24		on-time		  0
+ 43		9		16		20		late		  3
+ 44		2		8		16		late		  1
+ 45		5		10		15		on-time		  0
+ 46		9		14		22		late		  12
+ 47		7		11		13		late		  4
+ 48		5		8		11		on-time		  0
+ 49		1		3		9		late		  5
+ 50		1		2		10		late		  5
+
+Average Report of packages:
+Avg-Wait-Time       Packages on-time		   Packages late		      Avg-Lateness-of-late-packages	     Avg-Lateness-of-all-packages
+6.66	              26			   24				      4.95833333333333		         	2.38
+
+Truck Report:
+Number  Total-Wait-Time	 Total-Busy-Time	%-Busy-Time	 Packages-Transported   Avg-%-Truck-Occupied   Non-delivery-Travel-Time	  %-Busy-Time-spent-delivering
+ 1		45	   	66            	  59	         	   6	              73	              	33	             0
+ 2		53	   	58            	  52	         	   7	              74	              	25	             0
+ 3		46	   	65            	  58	         	   7	              61	              	36	             0
+ 4		53	   	58            	  52	         	   5	              48	              	34	             0
+ 5		26	   	85            	  76	         	   10	              85	              	37	             0
+ 6		28	   	83            	  74	         	   8	              68	              	39	             0
+ 7		22	   	89            	  80	         	   7	              64	              	42	             0
